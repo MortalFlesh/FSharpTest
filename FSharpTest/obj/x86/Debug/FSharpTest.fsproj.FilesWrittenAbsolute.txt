@@ -1,0 +1,5 @@
+/Users/chromecp/fsharp/FSharpTest/FSharpTest/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/chromecp/fsharp/FSharpTest/FSharpTest/bin/Debug/FSharpTest.exe.mdb
+/Users/chromecp/fsharp/FSharpTest/FSharpTest/bin/Debug/FSharpTest.exe
+/Users/chromecp/fsharp/FSharpTest/FSharpTest/obj/x86/Debug/FSharpTest.exe
+/Users/chromecp/fsharp/FSharpTest/FSharpTest/obj/x86/Debug/FSharpTest.exe.mdb
