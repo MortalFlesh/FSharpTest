@@ -50,6 +50,8 @@
 //         Integers and basic functions
 // ---------------------------------------------------------------
 
+namespace FSharpTest.Tutorial
+
 module Integers =
     let sampleInteger = 176
  
