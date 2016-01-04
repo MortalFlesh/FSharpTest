@@ -40,4 +40,19 @@
 
             printfn "%d:%s" i asterisks
 
-            System.Console.WriteLine("=============================")
+        System.Console.WriteLine("=============================")
+
+    module codingameMissingNumber =
+        let inNumbers = "908721534"
+
+        let numbers =
+            inNumbers.ToCharArray()
+                |> List.ofArray
+                |> List.map (fun c -> c.ToString() |> System.Int32.Parse)
+
+        let missingNumber =
+            for i in [0 .. 9] do
+                if not (numbers |> List.contains i) then
+                    printfn "Missing %d in %s" i inNumbers
+
+        System.Console.WriteLine("=============================")
